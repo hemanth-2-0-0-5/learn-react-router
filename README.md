@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# learn-react-router
+How to build a Single Page Application (SPA) using React Router, where navigating between pages updates the URL without reloading the browser. It starts with the basics and gradually introduces nested layouts, dynamic routes, navigation hooks, and data passing.
+>>>>>>> 595c705662890d43a515660cb8335af515c2f0ad
