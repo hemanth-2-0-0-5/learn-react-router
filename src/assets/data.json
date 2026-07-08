@@ -1,0 +1,64 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Frontend Developer",
+            "salary": 60000,
+            "location": "Bangalore"
+        },
+        {
+            "id": 2,
+            "title": "Backend Developer",
+            "salary": 70000,
+            "location": "Hyderabad"
+        },
+        {
+            "id": 3,
+            "title": "Full Stack Developer",
+            "salary": 85000,
+            "location": "Pune"
+        },
+        {
+            "id": 4,
+            "title": "React Developer",
+            "salary": 65000,
+            "location": "Chennai"
+        },
+        {
+            "id": 5,
+            "title": "Node.js Developer",
+            "salary": 75000,
+            "location": "Noida"
+        },
+        {
+            "id": 6,
+            "title": "Java Developer",
+            "salary": 80000,
+            "location": "Delhi"
+        },
+        {
+            "id": 7,
+            "title": "Python Developer",
+            "salary": 78000,
+            "location": "Mumbai"
+        },
+        {
+            "id": 8,
+            "title": "DevOps Engineer",
+            "salary": 95000,
+            "location": "Gurgaon"
+        },
+        {
+            "id": 9,
+            "title": "UI/UX Designer",
+            "salary": 55000,
+            "location": "Kolkata"
+        },
+        {
+            "id": 10,
+            "title": "Software Engineer",
+            "salary": 90000,
+            "location": "Ahmedabad"
+        }
+    ]
+}
