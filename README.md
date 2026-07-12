@@ -129,7 +129,6 @@ http://localhost:5173
 * Authentication
 
 ## 👨‍💻 Author
-
 **Hemanth Kumar**
 
 Learning React and the MERN Stack while building practical projects.
